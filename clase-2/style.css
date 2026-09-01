@@ -1,0 +1,16 @@
+/* etiqueta css para añadir estilo a todo elemento
+    con esta etiqueta */
+p {
+  font-size: 20px;
+}
+
+/* Con un punto al inicio declaramos estilos para las clases */
+.parrafo {
+  color: rgb(86, 31, 238);
+  background-color: aquamarine;
+}
+
+.parrafo2 {
+  color: rgb(241, 237, 6);
+  background-color: rgb(11, 82, 58);
+}
