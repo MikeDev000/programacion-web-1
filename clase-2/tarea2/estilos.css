@@ -1,0 +1,14 @@
+/* CONFIGURACIÓN GENERAL DE ESTILOS Y FORMATEO DE PAGINA */
+
+
+/* eliminar todos los margenes padding por 
+    defecto de todos los elementos */
+body {
+    margin: 0;
+    padding: 20px;
+    /* Configuracion de espacio al borde del nasvegador */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: bisque;
+
+}
